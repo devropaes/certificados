@@ -1,6 +1,6 @@
-Este curso é sobre os Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
+Este curso foi sobre os Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
 
-O curso foi dividido em 3 partes:
+O curso está dividido em 3 partes:
 
 Nível Introdutório;
 Nível Básico;
