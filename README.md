@@ -3,6 +3,10 @@
 [![Certificado Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)]
 ![image]([https://github.com/devropaes/certificados/blob/main/Certificado%20DSA%20Introdu%C3%A7%C3%A3o%20ao%20Python%2024%20horas.pdf])
 
+## Conteúdo do Repositório
+
+- `'Certificado DSA Introdução ao Python 24 horas.pdf'`: O arquivo do certificado.
+
 ## Descrição
 
 Este curso foi sobre os Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
